@@ -1,0 +1,16 @@
+{
+  "name": "functional-programming",
+  "version": "1.0.0",
+  "description": "functional programming oba",
+  "main": "index.js",
+  "dependencies": {
+    "11": "^0.0.1",
+    "oba-api": "github:rijkvanzanten/node-oba-api"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Linda de Haan",
+  "license": "MIT"
+}
