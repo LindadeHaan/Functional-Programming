@@ -5,6 +5,9 @@ const chalk = require('chalk');
 const express = require('express')
 const app = express()
 const port = 3000
+const data = {
+  response: 'Loading results please check terminal for when to refresh'
+}
 
 const obaApi = new api({
   url: 'https://zoeken.oba.nl/api/v1/',
@@ -18,12 +21,11 @@ const obaApi = new api({
 // possible parameters: q, librarian, refine, sort etc. check oba api documentation for all
 // possible filterKey: any higher order key in response object, like title returns only title objects instead of full data object
 obaApi.get('search', {
-  q: 'dreamworks',
+  q: 'pixar',
   librarian: false,
   refine: true,
-  facet: 'language(dut)'
-}, 'title').then(response => {
-
+  facet: ['type(movie)', 'pubYear(2010)']
+}).then(response => {
   // response ends up here
   console.log(response)
 
@@ -31,6 +33,26 @@ obaApi.get('search', {
   app.get('/', (req, res) => res.json(response))
   app.listen(port, () => console.log(chalk.green(`Listening on port ${port}`)))
 })
+// .then(result => {
+//   let keys = getKeys(result)			//Raw look at the data
+//   let titles = getTitles(result)	//Zoom in on one variable
+//
+// })
+//
+// function getKeys(data){
+// 	console.table(data)
+// 	let keys = Object.keys(data[0])
+// 	console.log("Keys: ", keys)
+// 	return keys
+// }
+//
+// //Mapping one variable
+// function getTitles(data){
+// 	let titles = data.map(title => title.titles)
+// 	//What variables (keys) exist on a given object in the data array?
+// 	console.log("Titles of movies:", titles)
+// 	return titles
+// }
 
 
 

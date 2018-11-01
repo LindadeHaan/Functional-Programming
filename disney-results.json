@@ -1,0 +1,2292 @@
+
+/* Disney 2018 ================================================================== */
+"results": [
+  {
+    "result": [
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "The Florida Project / directed by Sean Baker",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "The Florida Project / directed by Sean Baker",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "The Florida Project",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Sean Baker",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Sean Baker",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "type": "fmd",
+                  "localized-type": "fmd",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Brooklynn Prince",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Brooklynn Prince",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Bria Vinaite",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Bria Vinaite",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Willem Dafoe",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Willem Dafoe",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2018",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2018",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Sony Pictures Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Sony Pictures Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "[2018]",
+                      "place": "Hilversum"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "languages": [
+          {
+            "language": [
+              {
+                "_": "eng",
+                "$": {
+                  "translation": "Taal",
+                  "search-method": "language",
+                  "search-term": "eng",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      }
+    ]
+  }
+]
+
+
+/* Disney 2014 =============================================================== */
+"results": [
+  {
+    "result": [
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Muppets most wanted / [starring] Ricky Gervais, Ty Burrell, Tina Fey, Steve Whitmire, Eric Jacobson, Dave Goelz, Bill Barretta, David Rudman, Matt Vogel, Peter Linz",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Muppets most wanted / [starring] Ricky Gervais, Ty Burrell, Tina Fey, Steve Whitmire, Eric Jacobson, Dave Goelz, Bill Barretta, David Rudman, Matt Vogel, Peter Linz",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Muppets most wanted",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Disney Muppets most wanted",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "James Bobin",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "James Bobin",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "type": "drt",
+                  "localized-type": "Regisseur",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Ricky Gervais",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Ricky Gervais",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Ty Burrell",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Ty Burrell",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Tina Fey",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Tina Fey",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "David Hoberman",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "David Hoberman",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "pro",
+                  "localized-type": "Producent",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Saving mr. Banks / [starring] Emma Thompson, Tom Hanks, Paul Giamatti, Jason Schwartzman, Bradley Whitford and Colin Farrell",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Saving mr. Banks / [starring] Emma Thompson, Tom Hanks, Paul Giamatti, Jason Schwartzman, Bradley Whitford and Colin Farrell",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Saving mr. Banks",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "John Lee Hancock",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "John Lee Hancock",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "type": "drt",
+                  "localized-type": "Regisseur",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Emma Thompson",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Emma Thompson",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Tom Hanks",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Tom Hanks",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "act",
+                  "localized-type": "Acteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Alison Owen",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Alison Owen",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "type": "pro",
+                  "localized-type": "Producent",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Frozen / directed by Chris Buck, Jennifer Lee",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Frozen / directed by Chris Buck, Jennifer Lee",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Frozen",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Chris Buck",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Chris Buck",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Jennifer Lee",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Jennifer Lee",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Hans Christian Andersen",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Hans Christian Andersen",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "Walt Disney Studios Motion Pictures"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Sleeping beauty / with the talents of Mary Costa, Bill Shirley, Eleanor Audley, Verna Felton, Barbara Luddy, Barbara Jo Allen, Taylor Holmes, Bill Thompson",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Sleeping beauty / with the talents of Mary Costa, Bill Shirley, Eleanor Audley, Verna Felton, Barbara Luddy, Barbara Jo Allen, Taylor Holmes, Bill Thompson",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Sleeping beauty",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Doornroosje",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Clyde Geronimi",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Clyde Geronimi",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Mary Costa",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Mary Costa",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Charles Perrault",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Charles Perrault",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Walt Disney classics",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Walt Disney classics",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Jake en de Nooitgedachtland-piraten 5,  Jake tegen Haak",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Jake en de Nooitgedachtland-piraten 5,  Jake tegen Haak",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Jake en de Nooitgedachtland-piraten",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "De speelgoeddokter 3,  Een fijne knuffel maakt veel goed",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "De speelgoeddokter 3,  Een fijne knuffel maakt veel goed",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "De speelgoeddokter",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Chris Nee",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Chris Nee",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Disney junior",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Disney junior",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Het drijvende paleis / directed by Jamie Mitchell",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Het drijvende paleis / directed by Jamie Mitchell",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Het drijvende paleis",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Au royaume des Sirènes",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Jamie Mitchell",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Jamie Mitchell",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Sofia het prinsesje",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Sofia het prinsesje",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Sneeuwwitje en de zeven dwergen / supervising director David Hand",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Sneeuwwitje en de zeven dwergen / supervising director David Hand",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Sneeuwwitje en de zeven dwergen",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "David Hand",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "David Hand",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Jacob Grimm",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Jacob Grimm",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Wilhelm Grimm",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Wilhelm Grimm",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2014",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2014",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "[2014]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Walt Disney classics",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Walt Disney classics",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      }
+    ]
+  }
+]
+}
+
+/* Disney 2013 ================================================ */
+"results": [
+  {
+    "result": [
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "De Perry dossiers / directed by Zac Moncrief",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "De Perry dossiers / directed by Zac Moncrief",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "De Perry dossiers",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Les dossiers de Perry",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Zac Moncrief",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Zac Moncrief",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2013]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Phineas & Ferb",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Phineas & Ferb",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Mission Marvel / producer Robert F. Hughes",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Mission Marvel / producer Robert F. Hughes",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Mission Marvel",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Robert F. Hughes",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Robert F. Hughes",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2013]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Phineas & Ferb",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Phineas & Ferb",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Beestige agenten",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Beestige agenten",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Beestige agenten",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Des agents très spéciaux",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2013]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Phineas & Ferb",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Phineas & Ferb",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Chimpanzee / dir. by Alastair Fothergill and Mark Linfield",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Chimpanzee / dir. by Alastair Fothergill and Mark Linfield",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Chimpanzee",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Alastair Fothergill",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Alastair Fothergill",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Mark Linfield",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Mark Linfield",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Carice van Houten",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Carice van Houten",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Jake en de Nooitgedachtland-piraten 3,  Jake redt Bucky / directed by Howy Parkins ; produced and story edited by Mark Seidenberg",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Jake en de Nooitgedachtland-piraten 3,  Jake redt Bucky / directed by Howy Parkins ; produced and story edited by Mark Seidenberg",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Jake en de Nooitgedachtland-piraten",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Howy Parkins",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Howy Parkins",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Mark Seidenberg",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Mark Seidenberg",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "Bob Selderslaghs",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Bob Selderslaghs",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2013]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Er was eens een prinses / directed by Jamie Mitchell",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Er was eens een prinses / directed by Jamie Mitchell",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Er was eens een prinses",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Jamie Mitchell",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Jamie Mitchell",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment B.V.",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment B.V.",
+                      "search-type": "searcher",
+                      "year": "[2013]",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Sofia het prinsesje",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Sofia het prinsesje",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Oz the Great and Powerful / [starring] James Franco ... [et al.]",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Oz the Great and Powerful / [starring] James Franco ... [et al.]",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Oz the Great and Powerful",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Sam Raimi",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Sam Raimi",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "James Franco",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "James Franco",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              },
+              {
+                "_": "L. Frank Baum",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "L. Frank Baum",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "De speelgoeddokter [1],  Een knuffel is het beste medicijn = Des bisous qui soignent tout / dir. by Norton Virgien ; prod. Gillian Higgins, Theresa Mayer ; [Nederlandse stemmen] Coco Urbanus ... [et al.]",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "De speelgoeddokter [1],  Een knuffel is het beste medicijn = Des bisous qui soignent tout / dir. by Norton Virgien ; prod. Gillian Higgins, Theresa Mayer ; [Nederlandse stemmen] Coco Urbanus ... [et al.]",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "De speelgoeddokter",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Norton Virgien",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Norton Virgien",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Minnie en de Tovenaar van Dizz / dir. by Donovan Cook ... [et al.]",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Minnie en de Tovenaar van Dizz / dir. by Donovan Cook ... [et al.]",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Minnie en de Tovenaar van Dizz",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Minnie et le magicien d'Izz",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Donovan Cook",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Donovan Cook",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Dee Bradley Baker",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Dee Bradley Baker",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Mickey Mouse clubhouse",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Mickey Mouse clubhouse",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "African cats / dir. by Keith Scholey",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "African cats / dir. by Keith Scholey",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "African cats",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Keith Scholey",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Keith Scholey",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Samuel L. Jackson",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Samuel L. Jackson",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "titles": [
+          {
+            "title": [
+              {
+                "_": "Mickey en Donalds boerderij / dir. by Donovan Cook ... [et al.]",
+                "$": {
+                  "translation": "Titel",
+                  "search-method": "title",
+                  "search-term": "Mickey en Donalds boerderij / dir. by Donovan Cook ... [et al.]",
+                  "search-type": "fuzzy"
+                }
+              }
+            ],
+            "short-title": [
+              {
+                "_": "Mickey en Donalds boerderij",
+                "$": {
+                  "translation": "Korte titel"
+                }
+              }
+            ],
+            "other-title": [
+              {
+                "_": "Mickey et Donald ont une ferme",
+                "$": {
+                  "translation": "Andere titel"
+                }
+              }
+            ]
+          }
+        ],
+        "authors": [
+          {
+            "main-author": [
+              {
+                "_": "Donovan Cook",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Donovan Cook",
+                  "search-type": "searcher",
+                  "translation": "Auteur (hoofd)",
+                  "creatortype": "organization",
+                  "main": "true"
+                }
+              }
+            ],
+            "author": [
+              {
+                "_": "Dee Bradley Baker",
+                "$": {
+                  "search-method": "author",
+                  "search-term": "Dee Bradley Baker",
+                  "search-type": "searcher",
+                  "translation": "Auteur",
+                  "creatortype": "organization"
+                }
+              }
+            ]
+          }
+        ],
+        "formats": [
+          {
+            "format": [
+              {
+                "_": "movie",
+                "$": {
+                  "translation": "Formaat",
+                  "search-method": "format",
+                  "search-term": "movie",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ],
+        "publication": [
+          {
+            "year": [
+              {
+                "_": "2013",
+                "$": {
+                  "translation": "Publicatiejaar",
+                  "search-method": "year",
+                  "search-term": "2013",
+                  "search-type": "searcher"
+                }
+              }
+            ],
+            "publishers": [
+              {
+                "publisher": [
+                  {
+                    "_": "Buena Vista Home Entertainment",
+                    "$": {
+                      "translation": "Uitgever",
+                      "search-method": "publisher",
+                      "search-term": "Buena Vista Home Entertainment",
+                      "search-type": "searcher",
+                      "year": "2013",
+                      "place": "[Hoofddorp]"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "series": [
+          {
+            "series-title": [
+              {
+                "_": "Mickey Mouse clubhouse",
+                "$": {
+                  "translation": "In de reeks",
+                  "search-method": "series",
+                  "search-term": "Mickey Mouse clubhouse",
+                  "search-type": "searcher"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+],
