@@ -25,7 +25,7 @@ obaApi.get('search', {
   librarian: false,
   refine: true,
   facet: ['type(movie)', 'pubYear(2010)']
-}).then(response => {
+}, ['title' && 'author']).then(response => {
   // response ends up here
   console.log(response)
 

@@ -42,3 +42,15 @@ __*Variables*__
 
 
 #### Day 4 | November 1st, 2018
+
+* er achter gekomen hoe je op meerdere facetten kan filteren
+* hypothese opgesteld
+* resultaten gezocht voor de onderzoeksvraag en deelvragen
+* de resultaten voor mijzelf op een rijtje gezet
+
+* Found out how to filter with more facets;
+* Hypothesis;
+* 
+
+__*Hypothesis*__  
+In de loop der jaren worden er minder films door de 3 grote namen uitgebracht, maar Disney maakt van de 3 nog wel de meeste films.
