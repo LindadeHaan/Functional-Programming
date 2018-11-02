@@ -4,7 +4,7 @@
 
 #### Day 1 | October 29, 2018
 * The kick-off of the course functional programming.;
-* Introduction assigment from someone from the OBA;
+* Introduction assigment from Mark from the OBA;
 * Connect with the API of the OBA;
 * Workshop Titus.
 
@@ -21,12 +21,13 @@ __*Research questions*__
 5. __What is the difference in the amount of films & books Disney, Pixar & Dreamworks brought out starting from the year 2000?__
 
 #### Day 3 | October 31, 2018
-* onderzoekvragen aangepast naar openvragen
-* een onderzoeksvraag gekozen
-* deelvragen bedacht
-* welke data moet ik hebben om achter het antwoord op mijn vragen te komen
-* code van Dennis en Folkert gebruikt om door de API te kunnen zoeken
-* onderzocht hoe je kan zoeken
+
+* Changed my research questions to open questions;
+* Chose a research question;
+* Thought of sub-questions;
+* Which data do need to get an answer to my questions;
+* Used the code of Dennis and Folker-Jan to be able to search through the API;
+* Researched how to search through the API.
 
 __*Sub-questions*__
  * Did they release more or less movies in the last five years?
@@ -43,14 +44,12 @@ __*Variables*__
 
 #### Day 4 | November 1st, 2018
 
-* er achter gekomen hoe je op meerdere facetten kan filteren
-* hypothese opgesteld
-* resultaten gezocht voor de onderzoeksvraag en deelvragen
-* de resultaten voor mijzelf op een rijtje gezet
-
 * Found out how to filter with more facets;
 * Hypothesis;
-* 
+* Get results to the research question and sub-questions;
+* I made a list of the results for myself for clarity.
+
+Everybody was helping each other with getting the results they needed. I think it was a very productive day.
 
 __*Hypothesis*__  
 In de loop der jaren worden er minder films door de 3 grote namen uitgebracht, maar Disney maakt van de 3 nog wel de meeste films.
