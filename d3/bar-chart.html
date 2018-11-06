@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+     <link rel="stylesheet" href="index.css">
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <svg>
+
+    </svg>
+
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <script>
+      //grootte en achtergrond
+      var svgWidth = 500;
+      var svgHeight = 300;
+
+      var svg = d3.select('svg')
+          .attr('width', svgWidth)
+          .attr('height', svgHeight)
+          .attr('class', 'bar-chart');
+
+      // data voor in de barchart
+      var data = [80, 100, 56, 120, 180, 30, 40, 120, 160];
+
+      var barPadding = 5;
+      var barWidth = (svgWidth / data.length);
+
+      var barChart = svg.selectAll('rect')
+          .data(data)
+          .enter()
+          .append('rect')
+          //We need to give it four attributes: height, width, x-position and y-position.
+          //We’ll use the attr() method for all of these.
+
+          //The first parameter dictates which attribute we want to add: in this case,
+          //the y-coordinate of the bar. In the second, we get access to a callback function in which we’re going to return the value we want our attribute to have.
+          //Here, we get access to the data point at this step of the iteration process (remember, this method is invoked once per item in the dataset array).
+          //The data point is stored in the d argument. We’ll then subtract the given datapoint, d, from the height of our SVG container.
+
+          //X and y-coordinates are always calculated starting from the top left corner.
+          //So when we subtract the height of the container with the d value, we get the y-coordinate for the top of the bar.
+          .attr('y', function(d) {
+            return svgHeight - d
+          })
+          //To make the bar stretch from this point and down to the bottom of the SVG container,
+          //we’ll need to give it a height equivalent to the value of the data point:
+          .attr('width', function(d) {
+            return d;
+          })
+          //The next step is to give it a width:
+
+          //Here, we’re simply passing in a simple expression as opposed to the callback function,
+          //as we don’t need access to the data point.
+          //We’re simply taking basis in the barWidth variable which we created further up,
+          //which is the total width of the container divided by the amount of bars.
+          //In order to get a small gap between each of the bars, we’ll also subtract a padding,
+          //which we’ve defined as 5.
+          .attr('height', barWidth - barPadding)
+          //The final step is to set the x-coordinates. This expression is a bit more complex:
+
+          //Here, we’re first of all taking advantage of a second parameter in the callback, i. This is the index of the given item in the array.
+
+          //To set the coordinate for each of the bars, we’ll simply multiply the index with the barWidth variable.
+          //We’ll then return a string value which describes the transformation for the x-axis, for example "translate(100)".
+          //That would push the bar 100 pixels to the right.
+          .attr('transform', function (d, i) {
+            var translate = [barWidth * i, 0];
+            return 'translate("+ translate +")'
+          });
+    </script>
+  </body>
+</html>

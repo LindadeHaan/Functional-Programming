@@ -2,6 +2,7 @@
 
 ## Process
 
+## Week 1
 ### Day 1 | October 29, 2018
 * The kick-off of the course functional programming.;
 * Introduction assigment from Mark from the OBA;
@@ -55,3 +56,26 @@ I understand how to search through the API.
 
 __*Hypothesis*__  
 In de loop der jaren worden er minder films door de 3 grote namen uitgebracht, maar Disney maakt van de 3 nog wel de meeste films.
+
+### Day 5 | November 2, 2018
+
+* research afmaken;
+* readme aanvullen;
+* gastspreker Bert Spaan Observable & d3;
+* Specifieke data in terminal te zien krijgen!
+
+## Week 2
+### Day 6 | November 5, 2018
+
+* gastcollege Rejo van bits of freedom;
+* d3 introductie;
+* d3 uitgeprobeerd, geprobeerd te snappen;
+* tutorials gemaakt met d3.
+
+## Credits
+Dennis
+Folkert-Jan
+Chelsea
+Daniël van de Velde
+Maikel
+Wouter
