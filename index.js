@@ -42,6 +42,7 @@ const search = async (q, facet, page, count) => {
 // Credits: Chelsea Doeleman & Maikel van Veen
 (async () => {
   try {
+    // Credits: Jessie Mason -> She showed me how I could filter on more than 1 facet.
     //q, facet and page
     const disneyResults = await search ('disney', ['type(movie)'], 1)
     const dreamworksResults = await search ('dreamworks', ['type(movie)'], 1)
