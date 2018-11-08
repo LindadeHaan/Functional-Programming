@@ -6,7 +6,7 @@
 * [Research](#research)
 * [Data visualization](#data-visualization)
 * [Sketches](#sketches)
-* [What is Functional Programmming?](#what-is-functional-programming-?)
+* [What is Functional Programmming?](#what-is-functional-programming)
 * [Opinion & Experiences](#opinion-&-experiences)
 * [What I want to do next](#what-i-want-to-do-next)
 * [How to install](#how-to-install)
