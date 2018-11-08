@@ -44,4 +44,14 @@ __*Variables*__
 * How working with so many students on the same thing can help so much with understanding the code and what you are doing. There are so many students who have more experience with code than I do;
 * How I feel that sometimes the school and teachers expect that we have so much more knowledge about code than some of us actually do. The pace is very high for me, that is something I found out.
 * How D3 is a lot of math;
-* 
+
+
+
+## Credits
+[Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
+[Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  
+[Chelsea Doeleman](https://github.com/chelseadoeleman/functional-programming)  
+[Daniël van de Velde](https://github.com/DanielvandeVelde/functional-programming)  
+[Maikel van Veen](https://github.com/Maikxx/functional-programming)  
+[Wouter Lem](https://github.com/maanlamp/functional-programming)  
+[Jessie Mason](https://github.com/jessiemasonx/functional-programming)  
