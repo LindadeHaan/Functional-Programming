@@ -22,9 +22,9 @@ Make a data visualization based on the research you have done with the API from 
 
 We've got an API from the OBA and with help of the oba-api of [Rijk van Zanten](https://github.com/rijkvanzanten/node-oba-api) we could take a look at the data in the API.
 I found interesting data to do my research about: Disney, Pixar and Dreamworks.
-After that Dennis and Folkert-Jan made another API that was easy to use and with that API we could also parse the data to JSON, just like with the API of Rijk van Zanten.
+After that [Dennis](#credits) and [Folkert-Jan](#credits) made another API that was easy to use and with that API we could also parse the data to JSON, just like with the API of Rijk van Zanten.
 
-Eventually I am using the API of Rijk van Zanten again, but with the help of Wouter and his code I can get more than 20 results.
+Eventually I am using the API of Rijk van Zanten again, but with the help of [Wouter](#credits) and his code I can get more than 20 results.
 
 __*Research questions*__
 1. Which genre has become more popular after the year 2000?
@@ -77,6 +77,7 @@ Through this course I learned a lot, but overall I learned that the pace in the 
 When you can't make sense of the data you have in front of you, it is very hard to come up with questions about the data that you see. Luckily there were some other students and we figured it out together.
 
 It was nice that we had a big group of people who were working on the same thing. In this way you can work together with everybody and help everybody. I found that other students did not find it annoying to help students. When I saw that it was easier to ask for help myself.
+The respository of [Daniel van de Velde](#credits) was very helpful, he had a whole list of everything you could filter on on his repository. He even showed how everything was nested. I used this list and his repository a lot to filter de data.
 
 Because other students helped me, I understand how I can get data from the API from the OBA. I would've never figured this out on my own. At the beginning we got the OBA API, but to me it felt like we had to figure it all out on our own. There were so many students who had never worked with an API in this way and we just had to figure it all out ourselves. Luckily there were students who did understand it and probably worked with an API in this way before.
 
