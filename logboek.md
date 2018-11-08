@@ -76,36 +76,34 @@ Today we found out how we can filter on more facets. Now we can get the title, p
 I also made an hypothesis. This is what I expect to come out of the research I am doing.
 
 __*Hypothesis*__  
-In de loop der jaren worden er minder films door de 3 grote namen uitgebracht, maar Disney maakt van de 3 nog wel de meeste films.
+Throughout the years there are less movies in the system of the OBA from Disney, Pixar and Dreamworks, but there are still more Disney movies in the systems.
 
 The data that I got out of the search I did through the data, I noted in a file. I did this to get the data straight for myself.
 
 #### Day 5 | November 2, 2018
 
-* research afmaken;
-* readme aanvullen;
-* gastspreker Bert Spaan Observable & d3;
-* Specifieke data in terminal te zien krijgen!
+* Finish research;
+* Update readme;
+* Guest speaker Bert Spaan about observable & d3;
+* Get specific data in terminal.
 
-Today I tried to finish my research. I searched for a lot of different things to get answers to my questions. I got a lot of results and I could get an anwser to most of the questions.
+Today I tried to finish my research. I searched for a lot of different things to get answers to my questions. I got a lot of results and I could get an answer to most of the questions.
 
-My hypothesis was right, but I did not get the results I thought I should get. I thought Disney would have made less movies throughout the years, but it would be more than the result I got.
+My hypothesis was right but not completely, but I did not get the results I thought I should get. I thought Disney would have made less movies throughout the years, but it would be more than the result I got.
 
 ### Week 2
 #### Day 6 | November 5, 2018
 
-* gastcollege Rejo van bits of freedom;
-* d3 introductie;
-* d3 uitgeprobeerd, geprobeerd te snappen;
-* tutorials gemaakt met d3.
-* schetsen
+* Guest speaker Rejo from Bits of Freedom;
+* d3 introduction;
+* Tried d3 and tried to understand it;
+* Made d3 tutorials
+* Make sketches
 
 Today there was a guest speaker from Bits of Freedom, Rejo. He was very easy to listen to. He talked about privacy and how we have the choice ourselves to chose for privacy. It was very interesting.
 
 We also had a workshop about D3.js from Titus. It looked a lot like math and I thought I understood it pretty well when he explained it. But when I tried to understand an example with the code, I figured out it was a lot harder than I thought.  
 This is why I did some tutorials so I can understand how D3.js works.
-
-I also made sketches of how I want my results to look like today. You can see them under [Sketches](#sketches).
 
 #### Day 7 | November 6, 2018
 
