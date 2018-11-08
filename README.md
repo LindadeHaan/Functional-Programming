@@ -2,6 +2,16 @@
 
 <img src="images/gafiek1.png" width="1000">
 
+* [Assignment](#assignment)
+* [Research](#research)
+* [Data visualization](#data-visualization)
+* [Sketches](#sketches)
+* [What is Functional Programmming?](#what-is-functional-programming-?)
+* [Opinion & Experiences](#opinion-&-experiences)
+* [What I want to do next](#what-i-want-to-do-next)
+* [How to install](#how-to-install)
+* [Credits](#credits)
+
 ## Assignment
 
 Make a data visualization based on the research you have done with the API from the OBA.
@@ -134,6 +144,36 @@ I want users to see the name of the movie when the OBA only had one movie in a c
 
 __*How can I go further with my research?*__  
 I can compare how many movies every company brought out and how many movies there are in the OBA system.
+
+## How to install
+You need to change directory in your terminal first to the folder where you want to install everything. Use cd in your terminal to get to the place where you want to install on you computer.
+Example: cd folder_name
+
+To clone the repository:
+```
+git clone https://github.com/LindadeHaan/functional-programming
+cd functional-programming
+npm install
+```
+
+Start server:
+```
+node index.js
+```
+
+### package.json
+To make a package.json file you have to follow a few steps in your terminal:
+```
+npm init
+```
+After `npm init` you just have to fill in what your terminal requires.
+In your package.json file you can see which packages you already installed and which packages you still have to install.
+
+### packages
+
+* [node-oba-api-wrapper](https://github.com/maanlamp/node-oba-api-wrapper)
+* [oba-api](https://github.com/rijkvanzanten/node-oba-api)
+* [dotenv](https://github.com/motdotla/dotenv)
 
 ## Credits
 [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
