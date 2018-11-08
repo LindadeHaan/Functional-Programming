@@ -83,7 +83,7 @@ Because other students helped me, I understand how I can get data from the API f
 
 You can structure the data in `JSON` and properly see what kind of data you have. After you filter it though, because otherwise you get a lot of result back.
 
-How the data looks in the terminal:
+How the data looks in the terminal and `json`:
 ```json
 [
   { "title": "The Pixar story / een documentaire van Leslie Iwerks",
