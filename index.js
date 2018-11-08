@@ -9,7 +9,7 @@ const port = 3000
 //   response: 'Loading results please check terminal for when to refresh'
 // }
 const getData = require('./helpers/getData.js')
-const obaWrapper = require('./helpers/obaWrapper.js')
+const obaWrapper = require('node-oba-api-wrapper')
 
 const obaApi = new obaWrapper({
 	public: process.env.PUBLIC,
@@ -17,7 +17,6 @@ const obaApi = new obaWrapper({
 })
 
 // Search for method, params and than optional where you wanna find something
-// returns first 20 items
 // obaApi.get(endpoint, params, filterKey)
 // possible endpoints: search (needs 'q' parameter) | details (needs a 'frabl' parameter) | availability (needs a 'frabl' parameter) | holdings/root | index/x (where x = facet type (like 'book' ))
 // possible parameters: q, librarian, refine, sort etc. check oba api documentation for all
@@ -30,7 +29,7 @@ const search = async (q, facet, page, count) => {
     refine: true,
     facet,
     page,
-    count: 80,
+    count: 500,
     filter: (result) => {
 			const publicationYear = getData.getPublicationYearFromResult(result)
 			const currentYear = new Date().getFullYear()
