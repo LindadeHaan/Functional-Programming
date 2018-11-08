@@ -175,6 +175,10 @@ In your package.json file you can see which packages you already installed and w
 * [oba-api](https://github.com/rijkvanzanten/node-oba-api)
 * [dotenv](https://github.com/motdotla/dotenv)
 
+## Process
+
+To see my process click [here](https://github.com/LindadeHaan/functional-programming/blob/master/logboek.md).
+
 ## Credits
 [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
 [Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  

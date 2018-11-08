@@ -146,6 +146,13 @@ I updated my readme to a file where I explain what I learned during this course.
 
 I want and have to be consistent, so I changed all the '' to "".
 
+#### Day 10 | November 9, 2018
+
+* Added some more styling to my data visualization;
+* Checked README + Process one more time;
+
+Today is the day when we get a rating for our project. I added some more styling to my visualization and checked my README and Process/Logboek one more time.
+
 
 
 
