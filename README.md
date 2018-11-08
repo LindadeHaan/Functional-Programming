@@ -47,6 +47,11 @@ __*Variables*__
 
 
 
+
+
+HOE KAN MIJN ONDERZOEK VERDER GAAN?
+Hoe veel films heeft de oba in het systeem in vergelijking met het aantal dat er is uitgekomen per grote uitgever?
+
 ## Credits
 [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
 [Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  
