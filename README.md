@@ -1,5 +1,9 @@
 # Functional Programming
 
+## Assignment
+
+Make a data visualization based on the research you have done with the API from the OBA.
+
 ## Research
 
 ### Orient
@@ -32,7 +36,7 @@ __*Variables*__
   * Titles of the movies;
   * Number of movies;
 
-  __*Hypothesis*__  
+#### __*Hypothesis*__  
   Throughout the years there are less movies in the system of the OBA from Disney, Pixar and Dreamworks, but there are still more Disney movies in the systems.
 
 ## Sketches

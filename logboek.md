@@ -1,43 +1,5 @@
 # Functional Programming
 
-## Research
-
-### Orient
-
-We've got an API from the OBA and with help of the oba-api of [Rijk van Zanten](https://github.com/rijkvanzanten/node-oba-api) we could take a look at the data in the API.
-I found interesting data to do my research about: Disney, Pixar and Dreamworks.
-After that Dennis and Folkert-Jan made another API that was easy to use and with that API we could also parse the data to JSON, just like with the API of Rijk van Zanten.
-
-Eventually I am using the API of Rijk van Zanten again, but with the help of Wouter and his code I can get more than 20 results.
-
-With my research I want to see how much Disney, Pixar and Dreamworks movies the OBA has in their system throughout the years.
-
-
-__*Research questions*__
-1. Which genre has become more popular after the year 2000?
-2. Has the amount of e-books decreased or increased throughout the years?
-3. How many Pixar items are there and how many Disney items?
-4. Has the amount of books with black & white illustrations decreased or increased throughout the years?
-5. __What is the difference in the amount of films & books Disney, Pixar & Dreamworks brought out starting from the year 2000?__
-
-__*Sub-questions*__
- * Did they release more or less movies in the last five years?
- * Are there more women or men who write the movies?
- * How is the ratio between male and female writers different from the earlier years?
-
-__*Variables*__
-  * Publishers;
-  * Publication year;
-  * Writers;
-  * Titles of the movies;
-  * Number of movies;
-
-  __*Hypothesis*__  
-  Throughout the years there are less movies in the system of the OBA from Disney, Pixar and Dreamworks, but there are still more Disney movies in the systems.
-
-### Sketches
-
-
 ## Process
 
 ### Week 1
@@ -171,13 +133,23 @@ I searched for a lot of grouped bar charts that I can use to visualize my own da
 
 Eventually I found one, together with Chelsea, but it is V3 of D3. So I still have to rewrite the code to V5 of D3.
 
-#### Day 9| November 8, 2018
+#### Day 9 | November 8, 2018
 
-* d3 v3 omgeschreven naar v5
-* styling toevoegd
-* comments toegevoegd
-* readme geupdate
-* logboek bijgehouden
+* Rewrote version 3 of D3 to version 5
+* Added styling
+* Added comments
+* Updated readme
+* Added consistency
+
+Today I got back to my graph with D3. I rewrote the code from version 3 to version 5 of D3. Once that worked I added some styling to my graph to really emphasize the difference between the bars.
+
+I also added comments today.
+I updated my readme to a file where I explain what I learned during this course.
+
+I want and have to be consistent, so I changed all the '' to "".
+
+
+
 
 ## Credits
 [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
