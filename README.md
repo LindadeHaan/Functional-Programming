@@ -1,6 +1,6 @@
 # Functional Programming
 
-<img src="images/gafiek1.png" width="1000">
+<img src="images/gafiek1.png" width="800">
 
 * [Assignment](#assignment)
 * [Research](#research)
@@ -44,6 +44,8 @@ __*Variables*__
   * Titles of the movies;
   * Number of movies;
 
+This is the data that I need to make a visualization.
+
 #### __*Hypothesis*__  
   Throughout the years there are less movies in the system of the OBA from Disney, Pixar and Dreamworks, but there are still more Disney movies in the systems.
 
@@ -55,17 +57,23 @@ Maybe there is a obvious pattern and maybe not.
 ## Data visualization
  https://lindadehaan.github.io/functional-programming/barchart5.html
 
+ <img src="images/gafiek1.png" width="800">
+
+### Grouped bar chart
+I chose to use a grouped bar chart, because with this kind of chart you can really see the difference between the amount of movies in the system of the OBA.
+And you can really see the data for each year you want to show. Not like with a line chart when you show data of january 2010, but than the line gives you an expectation of the result in july 2010. Even when you did not fill in that data, so it can be totally off.
+
 ## Sketches
 
-<img src="images/schetslijngrefiek1.jpg" width="1000">  
+<img src="images/schetslijngrefiek1.jpg" width="800">  
 
-<img src="images/schetslijngrafiek2.jpg" width="1000">
+<img src="images/schetslijngrafiek2.jpg" width="800">
 
-<img src="images/schetsstaafgrafiek1.jpg" width="1000">
+<img src="images/schetsstaafgrafiek1.jpg" width="800">
 
-<img src="images/schetsstaafgrafiek2.jpg" width="1000">
+<img src="images/schetsstaafgrafiek2.jpg" width="800">
 
-<img src="images/staafgrafiek.jpg" width="1000">
+<img src="images/staafgrafiek.jpg" width="800">
 
 ## What is Functional Programming?
 
