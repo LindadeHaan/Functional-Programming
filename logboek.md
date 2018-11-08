@@ -171,6 +171,14 @@ I searched for a lot of grouped bar charts that I can use to visualize my own da
 
 Eventually I found one, together with Chelsea, but it is V3 of D3. So I still have to rewrite the code to V5 of D3.
 
+#### Day 9| November 8, 2018
+
+* d3 v3 omgeschreven naar v5
+* styling toevoegd
+* comments toegevoegd
+* readme geupdate
+* logboek bijgehouden
+
 ## Credits
 [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
 [Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  

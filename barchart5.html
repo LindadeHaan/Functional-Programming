@@ -65,7 +65,7 @@
     var color = d3.scaleOrdinal()
         .range(["#ffb5f6","#ff4444","#89c8ff"])
 
-    var svg = d3.select('body').append("svg")
+    var svg = d3.select("body").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
       .append("g")
@@ -80,6 +80,7 @@
       x1.domain(rateNames).range([0, x0.bandwidth()])
       y.domain([0, d3.max(data, function(categorie) { return d3.max(categorie.values, function(d) { return d.value }) })])
 
+      // text for the axis and the legend
       svg.append("g")
           .attr("class", "x axis")
           .attr("transform", "translate(0," + height + ")")
@@ -87,17 +88,17 @@
 
       svg.append("g")
           .attr("class", "y axis")
-          .style('opacity','0')
+          .style("opacity","0")
           .call(yAxis)
       .append("text")
           .attr("transform", "rotate(-90)")
           .attr("y", 6)
           .attr("dy", ".71em")
           .style("text-anchor", "end")
-          .style('font-weight','bold')
+          .style("font-weight","bold")
           .text("Value")
 
-      svg.select('.y').transition().duration(500).delay(1300).style('opacity','1')
+      svg.select(".y").transition().duration(500).delay(1300).style("opacity","1")
 
       var slice = svg.selectAll(".slice")
           .data(data)
@@ -105,6 +106,7 @@
           .attr("class", "g")
           .attr("transform",function(d) { return "translate(" + x0(d.categorie) + ",0)" })
 
+      //make the bars
       slice.selectAll("rect")
           .data(function(d) { return d.values })
       .enter().append("rect")
@@ -120,6 +122,7 @@
               d3.select(this).style("fill", color(d.rate))
           })
 
+      //animation
       slice.selectAll("rect")
           .transition()
           .delay(function (d) {return Math.random()*1000})
@@ -127,6 +130,7 @@
           .attr("y", function(d) { return y(d.value) })
           .attr("height", function(d) { return height - y(d.value) })
 
+      // legenda
       var legend = svg.selectAll(".legend")
           .data(data[0].values.map(function(d) { return d.rate }).reverse())
       .enter().append("g")
