@@ -10,7 +10,8 @@
 * [Opinion & Experiences](#opinion-&-experiences)
 * [What I want to do next](#what-i-want-to-do-next)
 * [How to install](#how-to-install)
-* [Credits](#credits)
+* [Credits & Help](#credits-&-help)
+* [Resources](#resources)
 
 ## Assignment
 
@@ -154,6 +155,8 @@ I want users to see the name of the movie when the OBA only had one movie in a c
 __*How can I go further with my research?*__  
 I can compare how many movies every company brought out and how many movies there are in the OBA system.
 
+Maybe I want to look at how many males and females wrote movies for Disney, Pixar and Dreamworks, but I have to figure out if that is relevant for my research.
+
 ## How to install
 You need to change directory in your terminal first to the folder where you want to install everything. Use cd in your terminal to get to the place where you want to install on you computer.
 Example: cd folder_name
@@ -188,11 +191,19 @@ In your package.json file you can see which packages you already installed and w
 
 To see my process click [here](https://github.com/LindadeHaan/functional-programming/blob/master/logboek.md).
 
-## Credits
-[Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
-[Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  
-[Chelsea Doeleman](https://github.com/chelseadoeleman/functional-programming)  
-[Daniël van de Velde](https://github.com/DanielvandeVelde/functional-programming)  
-[Maikel van Veen](https://github.com/Maikxx/functional-programming)  
-[Wouter Lem](https://github.com/maanlamp/functional-programming)  
-[Jessie Mason](https://github.com/jessiemasonx/functional-programming)
+## Credits & Help
+* [Jessie Mason](https://github.com/jessiemasonx/functional-programming)
+* [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
+* [Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  
+* [Chelsea Doeleman](https://github.com/chelseadoeleman/functional-programming)  
+* [Daniël van de Velde](https://github.com/DanielvandeVelde/functional-programming)  
+* [Maikel van Veen](https://github.com/Maikxx/functional-programming)  
+* [Wouter Lem](https://github.com/maanlamp/functional-programming)  
+
+## Resources
+
+* [Stackoverflow](https://stackoverflow.com/)
+* MDN
+* [Medium Freecodecamp](https://medium.freecodecamp.org/)
+* [Grouped Bar Chart](https://bl.ocks.org/bricedev/0d95074b6d83a77dc3ad)
+* [Github](https://github.com/)
