@@ -1,6 +1,6 @@
 # Functional Programming ⚙️
 
-<img src="images/gafiek1.png" width="800">
+<img src="images/grafiek2.png" width="800">
 
 * [Assignment](#assignment)
 * [Research](#research-)
@@ -58,7 +58,7 @@ Maybe there is a obvious pattern and maybe not.
 ## Data visualization :bar_chart:
  https://lindadehaan.github.io/functional-programming/barchart5.html
 
- <img src="images/gafiek1.png" width="800">
+ <img src="images/grafiek2.png" width="800">
 
 ### Grouped bar chart
 I chose to use a grouped bar chart, because with this kind of chart you can really see the difference between the amount of movies in the system of the OBA.
