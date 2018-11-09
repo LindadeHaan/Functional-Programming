@@ -1,4 +1,4 @@
-# Functional Programming
+# Functional Programming ⚙️
 
 <img src="images/gafiek1.png" width="800">
 
@@ -17,7 +17,7 @@
 
 Make a data visualization based on the research you have done with the API from the OBA.
 
-## Research
+## Research 🤓
 
 ### Orient
 
@@ -55,7 +55,7 @@ I chose to do my research about Disney, Pixar and Dreamworks movie, because I lo
 With my research I want to see how many Disney, Pixar and Dreamworks movies the OBA has in their system throughout the years.  
 Maybe there is a obvious pattern and maybe not.
 
-## Data visualization
+## Data visualization :bar_chart:
  https://lindadehaan.github.io/functional-programming/barchart5.html
 
  <img src="images/gafiek1.png" width="800">
@@ -76,7 +76,7 @@ And you can really see the data for each year you want to show. Not like with a 
 
 <img src="images/staafgrafiek.jpg" width="800">
 
-## What is Functional Programming?
+## What is Functional Programming? 😕😰
 
 What is functional programming: Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.([source: Median](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0))
 
@@ -147,7 +147,7 @@ Mark from the OBA already saw my data visualization and could immediately get a 
 
 Mark said that he could go to the right department to know why the visualizations looks like this.
 
-## What I want to do next
+## What I want to do next 🤔
 I still want my data to load dynamic. Now I do this with a `json` file.  And I still want to make sure I can put everything in Observable, because I really want to understand how that works.
 
 I want users to see the name of the movie when the OBA only had one movie in a certain year. I am going to do this with a tooltip.
@@ -192,7 +192,7 @@ In your package.json file you can see which packages you already installed and w
 To see my process click [here](https://github.com/LindadeHaan/functional-programming/blob/master/logboek.md).
 
 ## Credits & Help
-* [Jessie Mason](https://github.com/jessiemasonx/functional-programming)
+* [Jessie Mason](https://github.com/jessiemasonx/functional-programming) :santa:
 * [Dennis Wegereef](https://github.com/Denniswegereef/functional-programming)  
 * [Folkert-Jan van der Pol](https://github.com/FJvdPol/functional-programming)  
 * [Chelsea Doeleman](https://github.com/chelseadoeleman/functional-programming)  
