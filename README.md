@@ -3,12 +3,12 @@
 <img src="images/gafiek1.png" width="800">
 
 * [Assignment](#assignment)
-* [Research](#research)
-* [Data visualization](#data-visualization)
-* [Sketches](#sketches)
-* [What is Functional Programmming?](#what-is-functional-programming)
-* [Opinion & Experiences](https://github.com/LindadeHaan/functional-programming#opinion--experiences)
-* [What I want to do next](#what-i-want-to-do-next)
+* [Research](#research-)
+* [Data visualization](#data-visualization-bar_chart)
+* [Sketches](#sketches-)
+* [What is Functional Programmming?](#what-is-functional-programming-)
+* [Opinion & Experiences](https://github.com/LindadeHaan/functional-programming#opinion--experiences-)
+* [What I want to do next](#what-i-want-to-do-next-)
 * [How to install](#how-to-install)
 * [Credits & Help](https://github.com/LindadeHaan/functional-programming#credits--help)
 * [Resources](#resources)
@@ -64,7 +64,7 @@ Maybe there is a obvious pattern and maybe not.
 I chose to use a grouped bar chart, because with this kind of chart you can really see the difference between the amount of movies in the system of the OBA.
 And you can really see the data for each year you want to show. Not like with a line chart when you show data of january 2010, but than the line gives you an expectation of the result in july 2010. Even when you did not fill in that data, so it can be totally off.
 
-## Sketches
+## Sketches :pencil2:
 
 <img src="images/schetslijngrefiek1.jpg" width="800">  
 
@@ -80,7 +80,7 @@ And you can really see the data for each year you want to show. Not like with a 
 
 What is functional programming: Functional programming (often abbreviated FP) is the process of building software by composing pure functions, avoiding shared state, mutable data, and side-effects. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast with object oriented programming, where application state is usually shared and colocated with methods in objects.([source: Median](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0))
 
-## Opinion & Experiences
+## Opinion & Experiences :neutral_face:
 Through this course I learned a lot, but overall I learned that the pace in the class is very high and sometimes hard to follow.
 
 When you can't make sense of the data you have in front of you, it is very hard to come up with questions about the data that you see. Luckily there were some other students and we figured it out together.
