@@ -34,10 +34,6 @@
       display: none;
     }
 
-    text {
-      display: block;
-    }
-
     </style>
     <body>
       <h3>Number of movies the OBA has had in their system of Disney, Pixar and Dreamworks throughout the years.</h3>
@@ -100,8 +96,7 @@
           .attr("dy", ".71em")
           .style("text-anchor", "end")
           .style("font-weight","bold")
-          .style("opacity", "1")
-          .style("color", "#000000")
+          .style("visibility", "visible")
           .text("Number of movies")
 
       svg.select(".y").transition().duration(500).delay(1300).style("opacity","1")
