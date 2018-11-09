@@ -1,155 +1,155 @@
 [
     {
-        "categorie": "2010", 
+        "year": "2010",
         "values": [
             {
-                "value": 16, 
-                "rate": "Disney"
-            }, 
+                "value": 16,
+                "company": "Disney"
+            },
             {
-                "value": 2, 
-                "rate": "Pixar"
-            }, 
+                "value": 2,
+                "company": "Pixar"
+            },
             {
-                "value": 1, 
-                "rate": "Dreamworks"
-            }
-        ]
-    }, 
-    {
-        "categorie": "2011", 
-        "values": [
-            {
-                "value": 14, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 1, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 1, 
-                "rate": "Dreamworks"
-            }
-        ]
-    },  
-    {
-        "categorie": "2012", 
-        "values": [
-            {
-                "value": 10, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 5, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 1, 
-                "rate": "Dreamworks"
-            }
-        ]
-    }, 
-    {
-        "categorie": "2013", 
-        "values": [
-            {
-                "value": 11, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 0, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 0, 
-                "rate": "Dreamworks"
-            }
-        ]
-    }, 
-    {
-        "categorie": "2014", 
-        "values": [
-            {
-                "value": 8, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 0, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 3, 
-                "rate": "Dreamworks"
-            }
-        ]
-    }, 
-    {
-        "categorie": "2015", 
-        "values": [
-            {
-                "value": 0, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 1, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 1, 
-                "rate": "Dreamworks"
-            }
-        ]
-    }, 
-    {
-        "categorie": "2016", 
-        "values": [
-            {
-                "value": 0, 
-                "rate": "Disney"
-            }, 
-            {
-                "value": 0, 
-                "rate": "Pixar"
-            }, 
-            {
-                "value": 3, 
-                "rate": "Dreamworks"
+                "value": 1,
+                "company": "Dreamworks"
             }
         ]
     },
     {
-        "categorie": "2017", 
+        "year": "2011",
         "values": [
             {
-                "value": 0, 
-                "rate": "Disney"
-            }, 
+                "value": 14,
+                "company": "Disney"
+            },
             {
-                "value": 0, 
-                "rate": "Pixar"
-            }, 
+                "value": 1,
+                "company": "Pixar"
+            },
             {
-                "value": 1, 
-                "rate": "Dreamworks"
+                "value": 1,
+                "company": "Dreamworks"
             }
         ]
     },
     {
-        "categorie": "2018", 
+        "year": "2012",
         "values": [
             {
-                "value": 1, 
-                "rate": "Disney"
-            }, 
+                "value": 10,
+                "company": "Disney"
+            },
             {
-                "value": 0, 
-                "rate": "Pixar"
-            }, 
+                "value": 5,
+                "company": "Pixar"
+            },
             {
-                "value": 0, 
-                "rate": "Dreamworks"
+                "value": 1,
+                "company": "Dreamworks"
             }
         ]
-    }   
+    },
+    {
+        "year": "2013",
+        "values": [
+            {
+                "value": 11,
+                "company": "Disney"
+            },
+            {
+                "value": 0,
+                "company": "Pixar"
+            },
+            {
+                "value": 0,
+                "company": "Dreamworks"
+            }
+        ]
+    },
+    {
+        "year": "2014",
+        "values": [
+            {
+                "value": 8,
+                "company": "Disney"
+            },
+            {
+                "value": 0,
+                "company": "Pixar"
+            },
+            {
+                "value": 3,
+                "company": "Dreamworks"
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "values": [
+            {
+                "value": 0,
+                "company": "Disney"
+            },
+            {
+                "value": 1,
+                "company": "Pixar"
+            },
+            {
+                "value": 1,
+                "company": "Dreamworks"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "values": [
+            {
+                "value": 0,
+                "company": "Disney"
+            },
+            {
+                "value": 0,
+                "company": "Pixar"
+            },
+            {
+                "value": 3,
+                "company": "Dreamworks"
+            }
+        ]
+    },
+    {
+        "year": "2017",
+        "values": [
+            {
+                "value": 0,
+                "company": "Disney"
+            },
+            {
+                "value": 0,
+                "company": "Pixar"
+            },
+            {
+                "value": 1,
+                "company": "Dreamworks"
+            }
+        ]
+    },
+    {
+        "year": "2018",
+        "values": [
+            {
+                "value": 1,
+                "company": "Disney"
+            },
+            {
+                "value": 0,
+                "company": "Pixar"
+            },
+            {
+                "value": 0,
+                "company": "Dreamworks"
+            }
+        ]
+    }
 ]
