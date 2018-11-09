@@ -7,10 +7,10 @@
 * [Data visualization](#data-visualization)
 * [Sketches](#sketches)
 * [What is Functional Programmming?](#what-is-functional-programming)
-* [Opinion & Experiences](#opinion-&-experiences)
+* [Opinion & Experiences](https://github.com/LindadeHaan/functional-programming#opinion--experiences)
 * [What I want to do next](#what-i-want-to-do-next)
 * [How to install](#how-to-install)
-* [Credits & Help](#credits-&-help)
+* [Credits & Help](https://github.com/LindadeHaan/functional-programming#credits--help)
 * [Resources](#resources)
 
 ## Assignment
